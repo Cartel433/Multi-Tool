@@ -1,0 +1,5 @@
+- 💫 It's a multi tool
+- 💫 Which has normal tweaks
+- 💫 Mainly For quick downloading of windows app after a reinstall
+- 💫 Easy to use
+- 💫 Will be updated every 2 weeks
